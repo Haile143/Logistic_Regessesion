@@ -1,4 +1,5 @@
-# Portu_Bank_Logistic_Regessesion
+# Portuguese_Bank_Marketing_Analysis
+## Using Logistic Regression.
 ## Project Introduction
 In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 
